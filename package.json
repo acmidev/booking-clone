@@ -1,7 +1,7 @@
 {
   "name": "booking",
   "version": "0.1.0",
-  "homepage":  "git@github.com:acmidev/booking-clone.git",
+  "homepage":  "https://acmidev.github.io/booking-clone",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
