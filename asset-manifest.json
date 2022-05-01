@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/git@github.com:acmidev/booking-clone.git/static/css/main.745d03f0.css",
-    "main.js": "/git@github.com:acmidev/booking-clone.git/static/js/main.f276ff43.js",
-    "index.html": "/git@github.com:acmidev/booking-clone.git/index.html",
-    "main.745d03f0.css.map": "/git@github.com:acmidev/booking-clone.git/static/css/main.745d03f0.css.map",
-    "main.f276ff43.js.map": "/git@github.com:acmidev/booking-clone.git/static/js/main.f276ff43.js.map"
+    "main.css": "/booking-clone/static/css/main.745d03f0.css",
+    "main.js": "/booking-clone/static/js/main.f276ff43.js",
+    "index.html": "/booking-clone/index.html",
+    "main.745d03f0.css.map": "/booking-clone/static/css/main.745d03f0.css.map",
+    "main.f276ff43.js.map": "/booking-clone/static/js/main.f276ff43.js.map"
   },
   "entrypoints": [
     "static/css/main.745d03f0.css",
